@@ -1,0 +1,2 @@
+# MPS-Assignment-8
+Instructions Create a new repository in GitHub (with git ignore)    We require a T-Shirt ordering App.    Create a Page for the recipient to Capture details of their Order, and store them in a SQlite database.        Required Details (to be entered by User)  Name  Gender  T-Shirt Size  Date of Order  T-Shirt Color  Shipping Address  Create the ability to view all the orders captured in an order list.   Listview or Collection View.
